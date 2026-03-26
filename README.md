@@ -119,18 +119,3 @@ Tools: SQLAlchemy, Jupyter, VS Code
 
 Concepts: ETL, ML, Time‑Series, Feature Engineering
 
-# 🚀 How to Run the Project
-1. Clone the repo
-bash
-git clone https://github.com/yourusername/wind-turbine-analytics.git
-cd wind-turbine-analytics
-2. Install dependencies
-bash
-pip install -r requirements.txt
-3. Load data into MySQL
-bash
-python load_to_mysql.py
-4. Run the analysis
-bash
-python analysis/analysis_production.py
-
