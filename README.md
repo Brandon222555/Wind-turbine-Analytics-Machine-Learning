@@ -117,7 +117,7 @@ Database: MySQL
 
 Tools: SQLAlchemy, Jupyter, VS Code
 
-Concepts: ETL, ML, Time‑Series, Feature   Engineering
+Concepts: ETL, ML, Time‑Series, Feature Engineering
 
 # 🚀 How to Run the Project
 1. Clone the repo
