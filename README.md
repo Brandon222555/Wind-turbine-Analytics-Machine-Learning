@@ -31,7 +31,9 @@ Operational performance monitoring
 You’ll find everything from ETL pipelines to SQL views, ML models, and visual insights.
 
 
-# 🧱 Project Architecture
+## 🧱 Project Architecture
+
+```
 Code
 wind-turbine-analytics/
 │
@@ -43,6 +45,7 @@ wind-turbine-analytics/
 ├── load_to_mysql.py          # Chunked ETL loader
 └── README.md                 # Project documentation
 
+```
 
 # 🗄️ Database & ETL Pipeline
 MySQL Schema Includes:
